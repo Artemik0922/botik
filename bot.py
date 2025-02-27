@@ -11,7 +11,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Замените на свои данные:
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # Замените на токен вашего бота
+TELEGRAM_BOT_TOKEN = "8139319815:AAFqw9w92oFB518qy7eSIUsodMB5qcMUnAw"  # Замените на токен вашего бота
 OWM_API_KEY = "993af5a46d9d36aed09f26f724b6b81d"
 THINGSPEAK_CHANNEL_ID = "2858391"
 THINGSPEAK_READ_API_KEY = "JKED7I2X1EMVCVOO"
